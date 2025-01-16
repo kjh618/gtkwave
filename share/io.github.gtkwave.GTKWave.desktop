@@ -10,4 +10,5 @@ Type=Application
 StartupNotify=true
 Categories=Utility;GTK;Electronics;Engineering;
 MimeType=application/vnd.gtkwave-evcd;application/vnd.gtkwave-fst;application/vnd.gtkwave-ghw;application/vnd.gtkwave-gtkw;application/vnd.gtkwave-vcd;
+StartupWMClass=gtkwave
 
